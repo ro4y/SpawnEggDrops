@@ -9,7 +9,7 @@
 
 ## Description
 **Spawn Egg Drops** is a lightweight Forge mod for Minecraft 1.12.2 that allows mobs to occasionally drop their spawn eggs when killed by players.  
-This feature makes it easier to collect spawn eggs for farming, creative projects, or experimentation without affecting game balance.
+This feature makes it easier to collect spawn eggs for farming.
 
 ---
 
@@ -22,7 +22,7 @@ This feature makes it easier to collect spawn eggs for farming, creative project
 
 ## Installation
 1. Install **Minecraft 1.12.2** and the matching **Forge** version.
-2. Place `SpawnEggDrops.jar` into your `mods` folder.
+2. Place `SpawnEggDrops-1.12.2.jar` into your `mods` folder.
 3. Launch Minecraft using the Forge profile.
 
 ---
